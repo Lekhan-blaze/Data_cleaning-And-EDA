@@ -156,4 +156,4 @@ After cleaning, the following EDA queries were performed on the `layoffs_staging
 
 ## 📝 License
 
-This project is open source and available for learning and personal use only.
+This project is open source and available for learning and personal use.
